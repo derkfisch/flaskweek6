@@ -2,3 +2,5 @@
 venv
 #ignore the __pychache__
 __pycache__/
+#hide .env file bc thats where secret keys go
+.env 
